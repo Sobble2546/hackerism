@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Heckism
+  structure:
+    - type: space
+      key: space-1
+      title: Heckism
+      path: heckism
+      default: true
+      content:
+        directory: ./heckism
